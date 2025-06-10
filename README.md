@@ -10,7 +10,7 @@ This is my first backend project to understand CRUD operations, request handling
 
 ## How to Run
 1. Install requirements:  
-   `pip install -r requirements.txt`
+   `pip install -r requirements_todo1.0.txt`
 2. Run the app:  
    `uvicorn ToDo_app:app --reload`
 3. Open in browser:  
